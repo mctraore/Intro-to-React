@@ -4,8 +4,6 @@ img {
 
 .container {
   text-align: center;
-}
-
-body {
   background-color: azure;
+  padding: 20px 0;
 }
