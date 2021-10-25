@@ -1,6 +1,15 @@
 # Introduction to React
 
-The `travel-blog` repo includes completed code for a simple React website.
+The `travel-blog` repo includes completed code for a simple React website. In order to run the `travel-blog` application, clone or download this repo then run the following:
+
+```
+cd Intro-to-React
+cd travel-blog
+npm install
+npm start
+```
+
+View running application at http://localhost:3000
 
 ## Create a New React Project
 
@@ -12,10 +21,12 @@ npx create-react-app my-app
 cd my-app
 npm start
 ```
+
 ## Learning Resources
-- [React Documentation](https://reactjs.org/docs/getting-started.html) 
+
+- [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [Intro to React Tutorial](https://reactjs.org/tutorial/tutorial.html)
-- [React Express](https://www.react.express/) 
-- [Codecademy: Learn React](https://www.codecademy.com/learn/react-101) 
-- [Egghead.io: A Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)  
-- [Udemy: React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) 
+- [React Express](https://www.react.express/)
+- [Codecademy: Learn React](https://www.codecademy.com/learn/react-101)
+- [Egghead.io: A Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [Udemy: React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
