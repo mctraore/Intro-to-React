@@ -29,7 +29,7 @@ npm start
 
 ## Deploy Website using Github Pages
 
-- In project directory, run `npm install gh-pags --save -dev`
+- In project directory, run `npm install gh-pages --save -dev`
 - In package.json, add:
   - `"homepage": "http://<GITHUB-USERNAME>.github.io/REPONAME"`
 - In package.json under scripts, add:
